@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # Student Ops
 
 Student management dashboard: students, cohorts and managers, with Supabase Auth.
